@@ -36,9 +36,9 @@
 
 <p><img align="right" height="" width="400" style="padding-top:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwithbug&" alt="maxwithbug" /></p>
 
-<p>&nbsp;<img align="right" height="" width="380" style="padding-bottom:2px;" src="https://github-readme-stats.vercel.app/api?username=maxwithbug&show_icons=true&locale=en" alt="maxwithbug" /></p>
+<!-- <p>&nbsp;<img align="right" height="" width="380" style="padding-bottom:2px;" src="https://github-readme-stats.vercel.app/api?username=maxwithbug&show_icons=true&locale=en" alt="maxwithbug" /></p> -->
 
 
-<p><img align="top" height="200" widtg="200" src="https://github.com/maxwithbug/maxwithbug/blob/main/Wn14VX.gif"</p>
+<p><img align="right" height="160" widtg="180" src="https://github.com/maxwithbug/maxwithbug/blob/main/0ad1d7cef24a77e15099915897edb089.gif"</p>
 
 <!-- <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwithbug&show_icons=true&locale=en&layout=compact" alt="maxwithbug" /></p> -->
