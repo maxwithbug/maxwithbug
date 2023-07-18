@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Web development, cloud ,API's**
 
-- 📫 How to reach me **sumanpakira306@gmail.com**
+- 📫 How to reach me **Inbox me in Linkdin**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/suman-pakira-653195260](https://www.linkedin.com/in/suman-pakira-653195260)
 
