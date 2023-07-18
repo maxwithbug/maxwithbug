@@ -1,6 +1,6 @@
 ![logo](https://github.com/maxwithbug/maxwithbug/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxwithbug&column=-1" alt=
+  <img width="1200px"src="https://github-profile-trophy.vercel.app/?username=maxwithbug&column=-1" alt=
 “my GitHub trophy">
 </div>
 
