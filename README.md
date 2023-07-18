@@ -1,4 +1,12 @@
 ![logo](https://github.com/maxwithbug/maxwithbug/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxwithbug&column=-1" alt=
+“my GitHub trophy">
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Suman Pakira</h1>
 <h3 align="center">A webdeveloper and a Cloud guy from India</h3>
 <img align="right" alt="profile picture" width="400" src="https://github.com/maxwithbug/maxwithbug/blob/main/image_processing20200606-13136-o41h3.gif"
