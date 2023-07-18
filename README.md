@@ -1,7 +1,7 @@
 ![logo](https://github.com/maxwithbug/maxwithbug/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Suman Pakira</h1>
 <h3 align="center">A webdeveloper and a Cloud guy from India</h3>
-<img align="right" alt="profile picture" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11937422-Glow-animated-low-poly-arcade-machine&psig=AOvVaw0xiIQuq_Ab0_8IdXSNoUE6&ust=1689728909784000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjwje2Il4ADFQAAAAAdAAAAABAE"
+<img align="right" alt="profile picture" width="400" src="https://github.com/maxwithbug/maxwithbug/blob/main/image_processing20200606-13136-o41h3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwithbug&label=Profile%20views&color=0e75b6&style=flat" alt="maxwithbug" /> </p>
 
 - 🔭 I’m currently working on **Google cloud and API's**
