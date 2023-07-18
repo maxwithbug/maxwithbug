@@ -41,4 +41,4 @@
 
 <p><img align="top" height="200" widtg="200" src="https://github.com/maxwithbug/maxwithbug/blob/main/Wn14VX.gif"</p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwithbug&show_icons=true&locale=en&layout=compact" alt="maxwithbug" /></p>
+<p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwithbug&show_icons=true&locale=en&layout=compact" alt="maxwithbug" /></p>
