@@ -24,13 +24,13 @@
 
 - 📝 I regularly write articles on [Nothing🥺](Nothing🥺)
 
-- 💬 Ask me about **Web development, cloud ,API's**
+- 💬 Ask me about : **Web development, cloud ,API's**
 
-- 📫 How to reach me **Inbox me in Linkdin**
+- 📫 How to reach me : **Inbox me in Linkdin**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/suman-pakira-653195260](https://www.linkedin.com/in/suman-pakira-653195260)
 
-- ⚡ Fun fact **i am also use ai for linkedin post's caption😝**
+- ⚡ Fun fact :**i am also use ai for linkedin post's caption😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
