@@ -39,4 +39,4 @@
 <p>&nbsp;<img align="right" height="" width="400" src="https://github-readme-stats.vercel.app/api?username=maxwithbug&show_icons=true&locale=en" alt="maxwithbug" /></p>
 
 <p><img align="right" height="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwithbug&" alt="maxwithbug" /></p>
-<p><img align="top" height="300" widtg="" src="https://github.com/maxwithbug/maxwithbug/blob/main/Wn14VX.gif"</p>
+<p><img align="top" height="" widtg="" src="https://github.com/maxwithbug/maxwithbug/blob/main/Wn14VX.gif"</p>
