@@ -13,24 +13,12 @@
 <img align="right" alt="profile picture" width="400" src="https://github.com/maxwithbug/maxwithbug/blob/main/image_processing20200606-13136-o41h3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwithbug&label=Profile%20views&color=0e75b6&style=flat" alt="maxwithbug" /> </p>
 
-- 🔭 I’m currently working on **Google cloud and API's**
-
-- 🌱 I’m currently learning **Fullstack and Cloud**
-
-- 👯 I’m looking to collaborate on **Hackathons and Development**
-
-- 🤝 I’m looking for help with **Details about Cloud and Deep Databases**
-
-- 👨‍💻 All of my projects are available at [in this profile](in this profile)
-
-- 📝 I regularly write articles on [Nothing🥺](Nothing🥺)
-
-- 💬 Ask me about : **Web development, cloud ,API's**
-
-- 📫 How to reach me : **Inbox me in Linkdin**
-
+- 🔭 I’m currently working on : Google Cloud and Web Development <be>
+- 🌱 I’m currently learning      : Fullstack and Cloud<be>
+- 👯 I’m looking to collaborate on : Hackathons and Developers for collaboration<be>
+- 🤝 I’m looking for help                   : With Details about Cloud and Deep Databases<be>
+- 💬 Ask me about                            : Development & team collaboration<be>
 - 📄 Know about my experiences [https://www.linkedin.com/in/suman-pakira-653195260](https://www.linkedin.com/in/suman-pakira-653195260)
-
 - ⚡ Fun fact :**i am also use ai for linkedin post's caption😝**
 
 <h3 align="left">Connect with me:</h3>
