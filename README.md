@@ -1,5 +1,5 @@
 <!-- ![logo](https://github.com/maxwithbug/maxwithbug/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(2).png) -->
-<p align="left"> <img src="Black & White Modern Minimalist Data Analyst LinkedIn Banner (2).png" alt="maxwithbug" /> </p>
+<!-- <p align="left"> <img src="Black & White Modern Minimalist Data Analyst LinkedIn Banner (2).png" alt="maxwithbug" /> </p> -->
 
 <div align="center">
   <img width="1200px"src="https://github-profile-trophy.vercel.app/?username=maxwithbug&column=-1" alt=
