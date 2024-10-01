@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Suman Pakira</h1>
+<h1 align="center">Hi 👋, I'm MAxX</h1>
 <h3 align="center">A webdeveloper and a Cloud guy from India</h3>
 <img align="right" alt="profile picture" width="400" src="https://github.com/maxwithbug/maxwithbug/blob/main/image_processing20200606-13136-o41h3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwithbug&label=Profile%20views&color=0e75b6&style=flat" alt="maxwithbug" /> </p>
@@ -35,14 +35,6 @@
 
 
 
-<p><img align="right" height="" width="400" style="padding-top:2px;" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwithbug&" alt="maxwithbug" /></p>
-
-<!-- <p>&nbsp;<img align="right" height="" width="380" style="padding-bottom:2px;" src="https://github-readme-stats.vercel.app/api?username=maxwithbug&show_icons=true&locale=en" alt="maxwithbug" /></p> -->
-
-
-<p><img align="left" height="160" widtg="200" src="https://github.com/maxwithbug/maxwithbug/blob/main/0ad1d7cef24a77e15099915897edb089.gif"</p>
-
-<!-- <p><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwithbug&show_icons=true&locale=en&layout=compact" alt="maxwithbug" /></p> -->
 
 
 
@@ -50,7 +42,7 @@
 
 
 
-<h3 align="center">A Developer from India 🇮🇳</h3>
+
 
 
 
