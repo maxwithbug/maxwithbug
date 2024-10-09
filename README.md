@@ -99,14 +99,6 @@
                     </span>
                 </a>
                 <br>
-                <span style="font-size: 14px; color: #555555;">🎓 Project Mentor</span>
-                <br>
-                <span style="font-size: 12px; color: #777777;">
-                    I am one of 200 mentors among 17,000+ participants in GSSOC.<br>
-                    PRs Merged: 30+<br>
-                    Total Badges: 4<br>
-                    Total Score: 2000<br>
-                </span>
             </td>
             <td style="padding: 15px;" valign="top" width="50%">
                 <table>
