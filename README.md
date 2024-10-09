@@ -95,7 +95,7 @@
                     <img src="/Assets/leInyk8A_400x400.jpg" alt="GirlScript Summer of Code" width="120" />
                     <br>
                     <span style="font-family: 'Courier New', Courier, monospace;">
-                      <strong>Hacktoberfest</strong>
+                        <strong>Hacktoberfest</strong>
                     </span>
                 </a>
                 <br>
