@@ -87,64 +87,60 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px; width : 100%">
-    <table>
-        <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+<div align="center" style="width: 100%; overflow-x: auto;">
+    <table style="width: 100%; table-layout: fixed;">
+        <tr>
+            <td style="width: 50%; border-right: 1px solid #dddddd; padding: 15px; vertical-align: top;">
                 <a href="">
-                    <img src="/Assets/leInyk8A_400x400.jpg" alt="GirlScript Summer of Code" width="120" />
+                    <img src="/Assets/leInyk8A_400x400.jpg" alt="GirlScript Summer of Code" width="120" style="max-width: 100%; height: auto;" />
                     <br>
                     <span style="font-family: 'Courier New', Courier, monospace;">
                         <strong>Hacktoberfest</strong>
                     </span>
                 </a>
-                <br>
             </td>
-            <td style="padding: 15px;" valign="top" width="50%">
-                <table>
-                    <tr align="center">
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="ExplorerBadge.png" alt="Explorer Badge" width="80" />
+            <td style="width: 50%; padding: 15px; vertical-align: top;">
+                <table style="width: 100%;">
+                    <tr>
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="ExplorerBadge.png" alt="Explorer Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Explorer Badge</strong>
                         </td>
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="AdventurerBadge.png" alt="Adventurer Badge" width="80" />
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="AdventurerBadge.png" alt="Adventurer Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Adventurer Badge</strong>
                         </td>
-                        <td style="padding: 10px;" width="100">
-                            <img src="TrailblazerBadge.png" alt="Trailblazer Badge" width="80" />
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="TrailblazerBadge.png" alt="Trailblazer Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Trailblazer Badge</strong>
                         </td>
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="SummitSeekerBadge.png" alt="Summit Seeker Badge" width="80" />
+                        <td style="width: 25%; padding: 10px; text-align: center;">
+                            <img src="SummitSeekerBadge.png" alt="Summit Seeker Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Summit Seeker Badge</strong>
                         </td>
                     </tr>
-                    <tr align="center">
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hacktoberfest_icon_2022.svg"
-                                alt="Champion Badge" width="80" />
+                    <tr>
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hacktoberfest_icon_2022.svg" alt="Champion Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Hacktoberfest 2022</strong>
                         </td>
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg"
-                                alt="Innovator Badge" width="80" />
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Innovator Badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>Cloud Innovator Badge</strong>
                         </td>
-                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                            <img src="leetcode.gif" alt="100 days LeetCode badge" width="80" />
+                        <td style="width: 25%; border-right: 1px solid #dddddd; padding: 10px; text-align: center;">
+                            <img src="leetcode.gif" alt="100 days LeetCode badge" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>100 days LeetCode badge</strong>
                         </td>
-                        <td style="padding: 10px;" width="100">
-                            <img src="https://api.badgr.io/public/assertions/kgDMp3JXQwSbajOHyyGFYg"
-                                alt="Postman API Fundamentals Student Expert" width="80" />
+                        <td style="width: 25%; padding: 10px; text-align: center;">
+                            <img src="https://api.badgr.io/public/assertions/kgDMp3JXQwSbajOHyyGFYg" alt="Postman API Fundamentals Student Expert" width="80" style="max-width: 100%; height: auto;" />
                             <br>
                             <strong>API Student Expert</strong>
                             <br>
@@ -155,7 +151,6 @@
             </td>
         </tr>
     </table>
-
 </div>
 <be>
 
