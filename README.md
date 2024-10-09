@@ -87,7 +87,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px; width : 100%">
     <table>
         <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
