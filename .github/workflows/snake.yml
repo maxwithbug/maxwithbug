@@ -1,0 +1,31 @@
+name: Generate GitHub Snake
+
+on:
+  push:
+    branches:
+      - main # or your default branch name
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: maxwithbug # your GitHub username
+          outputs: |
+            dist/github-snake.svg?color_snake=skyblue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=skyblue
+
+      - name: Commit and push generated images
+        run: |
+          git config --local user.email "your_email@example.com" # replace with your email
+          git config --local user.name "your_username" # replace with your GitHub username
+          git add dist/github-snake.svg
+          git add dist/github-snake-dark.svg
+          git commit -m "Update GitHub Snake"
+          git push

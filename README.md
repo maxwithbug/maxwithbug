@@ -169,7 +169,12 @@
 <be>
 
 ######
-<img src="https://raw.githubusercontent.com/maxwithbug/maxwithbug/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maxwithbug/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/maxwithbug/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://github.com/maxwithbug/github-snake.svg">
+</picture>
+
 
 ###
 
