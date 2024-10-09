@@ -5,25 +5,22 @@
   <img height="400" src="https://media1.tenor.com/m/vMvR0gEolCEAAAAC/nothing-to-see-here-explosion.gif"  />
 </div>
 
-
 <div align="center">
   <img width="1200px"src="https://github-profile-trophy.vercel.app/?username=maxwithbug&column=-1" alt=
 “my GitHub trophy">
 </div>
-
 
 <p>
 <img align="right" alt="profile picture" width="400" src="https://github.com/maxwithbug/maxwithbug/blob/main/image_processing20200606-13136-o41h3.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwithbug&label=Profile%20views&color=0e75b6&style=flat" alt="maxwithbug" /> </p>
 
 - 🔭 I’m currently working on : Google Cloud and Web Development <be>
-- 🌱 I’m currently learning      : Fullstack and Cloud<be>
+- 🌱 I’m currently learning : Fullstack and Cloud<be>
 - 👯 I’m looking to collaborate on : Hackathons and Developers for collaboration<be>
-- 🤝 I’m looking for help                   : With Details about Cloud and Deep Databases<be>
-- 💬 Ask me about                            : Development & team collaboration<be>
+- 🤝 I’m looking for help : With Details about Cloud and Deep Databases<be>
+- 💬 Ask me about : Development & team collaboration<be>
 - 📄 Know about my experiences [https://www.linkedin.com/in/suman-pakira-653195260](https://www.linkedin.com/in/suman-pakira-653195260)
 - ⚡ Fun fact :**i am also use ai for linkedin post's caption😝**
-
 
 ###
 
@@ -90,15 +87,16 @@
 
 ###
 
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <table>
         <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
                 <a href="">
-                    <img src="gssoc.png" alt="GirlScript Summer of Code" width="120" />
+                    <img src="/Assets/leInyk8A_400x400.jpg" alt="GirlScript Summer of Code" width="120" />
                     <br>
-                    <strong>GirlScript Summer of Code</strong>
+                    <span style="font-family: 'Courier New', Courier, monospace;">
+                      <strong>Hacktoberfest</strong>
+                    </span>
                 </a>
                 <br>
                 <span style="font-size: 14px; color: #555555;">🎓 Project Mentor</span>
@@ -165,25 +163,15 @@
             </td>
         </tr>
     </table>
+
 </div>
 <be>
 
 ######
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 ###
-
-
-
-
-
-
-
-
-
-
-
-
