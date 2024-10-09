@@ -90,6 +90,85 @@
 
 ###
 
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <table>
+        <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+                <a href="">
+                    <img src="gssoc.png" alt="GirlScript Summer of Code" width="120" />
+                    <br>
+                    <strong>GirlScript Summer of Code</strong>
+                </a>
+                <br>
+                <span style="font-size: 14px; color: #555555;">🎓 Project Mentor</span>
+                <br>
+                <span style="font-size: 12px; color: #777777;">
+                    I am one of 200 mentors among 17,000+ participants in GSSOC.<br>
+                    PRs Merged: 30+<br>
+                    Total Badges: 4<br>
+                    Total Score: 2000<br>
+                </span>
+            </td>
+            <td style="padding: 15px;" valign="top" width="50%">
+                <table>
+                    <tr align="center">
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="ExplorerBadge.png" alt="Explorer Badge" width="80" />
+                            <br>
+                            <strong>Explorer Badge</strong>
+                        </td>
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="AdventurerBadge.png" alt="Adventurer Badge" width="80" />
+                            <br>
+                            <strong>Adventurer Badge</strong>
+                        </td>
+                        <td style="padding: 10px;" width="100">
+                            <img src="TrailblazerBadge.png" alt="Trailblazer Badge" width="80" />
+                            <br>
+                            <strong>Trailblazer Badge</strong>
+                        </td>
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="SummitSeekerBadge.png" alt="Summit Seeker Badge" width="80" />
+                            <br>
+                            <strong>Summit Seeker Badge</strong>
+                        </td>
+                    </tr>
+                    <tr align="center">
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hacktoberfest_icon_2022.svg"
+                                alt="Champion Badge" width="80" />
+                            <br>
+                            <strong>Hacktoberfest 2022</strong>
+                        </td>
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg"
+                                alt="Innovator Badge" width="80" />
+                            <br>
+                            <strong>Cloud Innovator Badge</strong>
+                        </td>
+                        <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+                            <img src="leetcode.gif" alt="100 days LeetCode badge" width="80" />
+                            <br>
+                            <strong>100 days LeetCode badge</strong>
+                        </td>
+                        <td style="padding: 10px;" width="100">
+                            <img src="https://api.badgr.io/public/assertions/kgDMp3JXQwSbajOHyyGFYg"
+                                alt="Postman API Fundamentals Student Expert" width="80" />
+                            <br>
+                            <strong>API Student Expert</strong>
+                            <br>
+                            <span style="font-size: 12px; color: #777777;">Postman</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>
+<be>
+
+######
 <img src="https://raw.githubusercontent.com/maxwithbug/maxwithbug/output/snake.svg" alt="Snake animation" />
 
 ###
